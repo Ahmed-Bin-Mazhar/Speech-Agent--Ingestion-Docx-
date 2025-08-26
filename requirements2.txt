@@ -1,0 +1,8 @@
+faiss-cpu   
+sounddevice
+numpy
+pygame
+sentence-transformers
+elevenlabs
+groq
+python-dotenv
